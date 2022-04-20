@@ -16,11 +16,11 @@ If you have a project recommendation, let me know!
 11. Closing Tag Checker
 12. Blackjack
 13. Dungeon and Dragons Character Generator
-14. Dice Roller
+14. [Dice Roller](https://github.com/Alira-Coffman/Dice-Roller)
 15. Magic 8 Ball
 16. Unit Converter
 17. Recipe Manager
-18. Weather App 
+18. [Weather App](https://github.com/Alira-Coffman/weather-app).
 19. 2048
 20. Snake
 21. Simon Says
@@ -34,7 +34,7 @@ If you have a project recommendation, let me know!
 29. Cipher 
 30. Crossword Generator
 31. War
-32. Color Palatte Generator
+32. [Color Palatte Generator](https://github.com/Alira-Coffman/color-palette-generator)
 33. Login System
 34. Splitwise type calculator
 35. Change Calculator
