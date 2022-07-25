@@ -6,7 +6,7 @@ If you have a project recommendation, let me know!
 1. Personal Portfolio
 2. GPA Tracker
 3. To Do List
-4. Password Generator
+4. [Password Generator](https://github.com/Alira-Coffman/PasswordGenerator)
 5. Pomodoro Timers
 6. Flex/Grid layout generator
 7. Trivia Game
